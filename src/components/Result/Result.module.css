@@ -1,0 +1,15 @@
+.result {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.result h2 {
+    color: #fff;
+}
+
+.imc {
+    font-weight: bold;
+    margin-left: 8px;
+    color: #2e86de;
+}
